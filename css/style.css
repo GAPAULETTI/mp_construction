@@ -10,3 +10,7 @@
     padding-right: 3em ;
     margin-left: 2em;
 }
+.carrusel {
+    max-height: min-content;
+    
+}
